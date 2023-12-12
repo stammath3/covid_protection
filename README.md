@@ -1,12 +1,12 @@
 # covid_protection
 
-A Flutter project.
+A Flutter project for University.
 
 ## Getting Started
 
 - This is a covid protection measure project to display the covid symptoms and protection measurements.
 ![Alt text](background.png)
 
--Home screen 
+-Home screen.
 
 ![Alt text](home.png)
