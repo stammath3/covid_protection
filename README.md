@@ -6,3 +6,7 @@ A Flutter project.
 
 - This is a covid protection measure project to display the covid symptoms and protection measurements.
 ![Alt text](background.png)
+
+-Home screen 
+
+![Alt text](home.png)
