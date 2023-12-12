@@ -9,4 +9,4 @@ A Flutter project for University.
 
 -Home screen.
 
-![Alt text](home.png)
+![Alt text](home-1.png)
